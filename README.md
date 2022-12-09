@@ -1,1 +1,2 @@
-# ECE-287A-Word-Guesser-Game
+# FPGA-Word-Guesser-Game
+Check out this 
